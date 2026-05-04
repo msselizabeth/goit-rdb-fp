@@ -6,6 +6,8 @@
 
 #### Task 2
 ![Task-2](./p_2.png)
+![Task-2-2](./p_2_2.png)
+
 
 #### Task 3
 ![Task-3](./p_3.png)
