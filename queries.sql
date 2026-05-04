@@ -41,6 +41,7 @@ DROP COLUMN Code;
 -- Verify the final structure
 SELECT * FROM infectious_cases LIMIT 100;
 
+
 -- Task 3
 -- Calc average, min, max, sum for Number_rabies column, removing null/empty values. 
 SELECT 
